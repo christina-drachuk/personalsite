@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    display: inline-block;
+    border: 5px solid rgb(205, 117, 142);
+    border-radius: 5px;
+}
+
+div.parent {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+}
+
+#bold {
+    font-weight: bold;
+}
